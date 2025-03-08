@@ -27,10 +27,15 @@ print('Division: ', num1/num2)
 ###Output of Task1.py
 
 Enter the first number: 3
+
 Enter the second number: 4
+
 Addition:  7
+
 Subtraction:  -1
+
 Multiplication:  12
+
 Division:  0.75
 
 ----------------------------------------------
@@ -65,7 +70,9 @@ print(greeting)
 ###Output of Task2.py
 
 Enter your first name: John
+
 Enter your last name: Doe
+
 Hello, John Doe! Welcome to the Python program.
 
 #--------Thank you-----------
