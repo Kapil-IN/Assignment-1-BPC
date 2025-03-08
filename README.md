@@ -18,9 +18,13 @@ num2 = int (input('Enter the second number: '))
 #### Performs the basic mathematical operations on these two numbers and display the results of each operation on the screen
 
 print('Addition: ', num1+num2)
+
 print('Subtraction: ', num1-num2)
+
 print('Multiplication: ', num1*num2)
+
 print('Division: ', num1/num2)
+
 
 #---------------------End of Task1.py--------------------------------
 
